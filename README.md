@@ -3,6 +3,7 @@
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ![main workflow](https://github.com/KonovalovPS/hexlet-ci-app/actions/workflows/main.yaml/badge.svg)
+![snyk workflow](https://github.com/KonovalovPS/hexlet-ci-app/actions/workflows/snyk.yaml/badge.svg)
 
 ## System requirements
 
